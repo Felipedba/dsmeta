@@ -1,0 +1,13 @@
+package com.devsuperior.dsmesta;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DsmestaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DsmestaApplication.class, args);
+	}
+
+}
